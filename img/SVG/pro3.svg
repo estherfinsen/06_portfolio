@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 767.01 767.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #26a2d9;
+        stroke-width: 17.01px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #26a2d9;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-size: 93.59px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-4, .cls-6 {
+        fill: red;
+        font-family: Bauhaus93, 'Bauhaus 93';
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-width: 31.18px;
+      }
+
+      .cls-6 {
+        font-size: 83.55px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-2" cx="383.5" cy="383.5" r="375"/>
+      <circle class="cls-1" cx="375.7" cy="391.51" r="260.13"/>
+      <g id="Layer_1-2" data-name="Layer 1-2">
+        <g>
+          <g class="cls-5">
+            <text class="cls-4" transform="translate(265.86 313.14)"><tspan x="0" y="0">La</tspan></text>
+            <text class="cls-6" transform="translate(352.28 313.14)"><tspan x="0" y="0">SH</tspan></text>
+            <text class="cls-4" transform="translate(438.52 313.14)"><tspan x="0" y="0">in</tspan></text>
+          </g>
+          <path class="cls-3" d="m357.88,426.67c0-12.9,11.1-23.35,24.79-23.35s21.92,10.46,21.92,23.35-8.23,23.35-21.92,23.35-24.79-10.46-24.79-23.35Z"/>
+          <path class="cls-2" d="m483.11,407.97c-30.36-5.74-67.44-33.55-106.87-34.76-39.9,1.55-76.58,39.58-107.85,37.41,21.15-16.6,73.86-45.16,112.6-45.32,38.29.16,80.14,25.97,102.13,42.67h0Z"/>
+          <path class="cls-2" d="m272.5,447.24c28.14,5.36,63.94,30.48,106.64,31.77,43.28-1.31,58.78-28.84,110.76-36.78-18.7,12.65-71.32,50.29-113.27,50.46-41.47-.17-89.64-33.25-104.14-45.44h0Z"/>
+          <path class="cls-2" d="m262.76,472.7c23.9,12.8,78.48,46.81,121.19,47.9,43.21-2.23,96.02-49.56,123.29-56.02-23.86,16.7-81.12,60.28-123.07,60.42-41.47-.14-111.14-38.03-121.39-52.29h0Z"/>
+          <path class="cls-2" d="m260.5,384.62c23.9-12.8,78.17-45.47,120.87-46.56,43.21,2.23,95.17,47.7,123.29,50.33-25.2-12.97-81.12-54.59-123.07-54.74-41.47.14-110.83,36.7-121.08,50.96h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
