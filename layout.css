@@ -1,0 +1,337 @@
+@media (min-width: 840px) {
+  main {
+    max-width: 1200px;
+  }
+
+  /***MENU***/
+  .top-nav li {
+    margin: 0 10px;
+  }
+  .top-nav .menu {
+    display: flex;
+    justify-content: space-between;
+    width: 52%;
+    max-height: none;
+    flex-direction: row;
+    padding: 0;
+  }
+  .top-nav .menu-icon {
+    display: none;
+  }
+  .logo img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .top-nav {
+    padding: 2% 2%;
+  }
+  .top-nav .logo {
+    display: inline-block;
+    width: 0;
+  }
+
+  .top-nav .menu li a {
+    font-size: 3cqw;
+  }
+
+  /**FOOTER***/
+
+  #fot_navn,
+  .fot_info {
+    font-size: 2cqw;
+  }
+  /****FORSIDE*****/
+
+  #forbil {
+    top: 35%;
+  }
+
+  #forbil2 {
+    top: 85%;
+  }
+
+  /*******PROJEKTER******/
+
+  #proj_over {
+    font-size: 8cqw;
+    font-family: "Chewy", cursive;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+  }
+
+  /*****PROJEKT OVERBLIK GRID desk****/
+  #proj_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 5%;
+    row-gap: 15%;
+    padding: 35% 0% 10% 20%;
+    margin-bottom: 20%;
+    text-align: center;
+  }
+
+  #pro1 {
+    grid-column: 1;
+    grid-row: 1;
+    width: 80%;
+  }
+  #pro2 {
+    grid-column: 2;
+    grid-row: 1;
+    width: 80%;
+  }
+  #pro3 {
+    grid-column: 3;
+    grid-row: 1;
+    width: 80%;
+  }
+  #pro4 {
+    grid-column: 2;
+    grid-row: 1;
+    width: 80%;
+  }
+  #pro5 {
+    grid-column: 2;
+    grid-row: 2;
+    width: 80%;
+  }
+  #pro6 {
+    grid-column: 3;
+    grid-row: 2;
+    width: 80%;
+  }
+
+  #pro1:hover,
+  #pro2:hover,
+  #pro3:hover,
+  #pro4:hover,
+  #pro5:hover,
+  #pro6:hover {
+    transform: scale(1.1);
+  }
+  /****ALLE PRO SIDERNE*****/
+  /*****OVERSKRIFT***/
+  .pro_alle_over {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    top: 30%;
+    gap: 0%;
+  }
+
+  .pro_alle_bil {
+    width: 90%;
+    padding-left: 17%;
+  }
+  .pro_alle_tekst {
+    font-size: 3cqw;
+    padding-top: 11%;
+    width: 150%;
+  }
+  /***KNAPPERNE***/
+  .knap_grid {
+    gap: 58%;
+    display: grid;
+  }
+  /***FORIGE KNAP***/
+  .pro_grid_knap1 {
+    font-size: 3cqw;
+    border-radius: 0.8cqw;
+    padding: 2% 4% 2% 4%;
+    width: 200%;
+  }
+  /**SITET KNAP****/
+  .pro_grid_knap2 {
+    font-size: 3cqw;
+    border-radius: 0.8cqw;
+    padding: 3% 4% 2% 4%;
+    margin-left: 70%;
+    width: 120%;
+  }
+
+  /***VIDERE KNAP***/
+  .pro_grid_knap3 {
+    font-size: 3cqw;
+    border-radius: 0.8cqw;
+    padding: 2% 4% 2% 4%;
+    margin-left: 0;
+    width: 200%;
+  }
+
+  /****PRO1 KNAPPER*****/
+  .pro1_grid_knap1 {
+    font-size: 3cqw;
+    border-radius: 0.8cqw;
+    padding: 3% 4% 2% 4%;
+  }
+  .pro1_grid_knap2 {
+    font-size: 3cqw;
+    border-radius: 0.8cqw;
+    padding: 2% 4% 2% 4%;
+    margin-left: 194%;
+    width: 90%;
+  }
+
+  /******PRO GRID VERSION 1 *****/
+  .pro_grid1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 15%;
+    gap: 5%;
+    position: absolute;
+    top: 25%;
+    padding-bottom: 50%;
+  }
+
+  .pro_grid1_1 {
+    grid-column: 1;
+    font-size: 1.5cqw;
+    width: 40cqw;
+  }
+  .pro_grid1_2 {
+    grid-column: 2;
+  }
+
+  .pro_img1 {
+    width: 40cqw;
+    padding-top: 2%;
+  }
+
+  .first_img {
+    padding-top: 6%;
+  }
+  /***PRO1****/
+  #pro1_eks_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2%;
+    width: 40cqw;
+  }
+  #eks_grid1 {
+    grid-column: 1;
+    width: 100%;
+    height: fit-content;
+  }
+  #eks_grid2 {
+    grid-column: 2;
+    width: 100%;
+    height: fit-content;
+  }
+
+  .pro1_imgs {
+    padding-top: 7%;
+  }
+  /***PRO2****/
+  .pro_eks {
+    padding-top: 4%;
+  }
+  .pro_grid2 {
+    top: 22%;
+  }
+  .pro2_imgs {
+    padding-top: 12.5%;
+  }
+
+  /***PRO3****/
+  .under3 {
+    padding-top: 13%;
+  }
+  .pro3_over {
+    gap: 22%;
+  }
+
+  .cirkel_pro3 {
+    width: 170%;
+  }
+
+  .tekst_pro3 {
+    padding-top: 25%;
+  }
+  .pro3_imgs {
+    padding-top: 6.5%;
+  }
+  /***PRO4****/
+  .pro_grid4 {
+    padding-top: 18%;
+  }
+
+  .pro_grid4 div {
+    padding-top: 2%;
+  }
+  #pro4_eks_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2%;
+    width: 40cqw;
+    padding-top: 15%;
+  }
+  .pro4_mand {
+    padding-top: 21%;
+  }
+  .pro4_grid_1 {
+    grid-column: 1;
+    width: 100%;
+    height: fit-content;
+  }
+  .pro4_grid_2 {
+    grid-column: 2;
+    width: 100%;
+    height: fit-content;
+  }
+  .pro4_grid_3 {
+    grid-column: 3;
+    width: 100%;
+    height: fit-content;
+  }
+
+  .pro4_pad {
+    padding-top: 7%;
+  }
+  .pro4_pad .first_img {
+    padding-top: 2%;
+  }
+  .pro4_pad img {
+    padding-top: 2%;
+  }
+  .state {
+    background-color: white;
+    padding-top: 0;
+    margin-top: 2%;
+  }
+
+  /***PRO5****/
+  .pro_vid {
+    width: 40cqw;
+    padding-top: 3%;
+  }
+  .pro5_pad {
+    padding-top: 20%;
+  }
+  /***PRO6****/
+  .pro6_knap_grid {
+    gap: 56%;
+  }
+  .pro6_knap {
+    width: 157%;
+  }
+  .pro6_imgs {
+    padding-top: 20.5%;
+  }
+
+  /*****OM MIG*****/
+  .om_over {
+    top: 25%;
+    left: 5%;
+    font-size: 8cqw;
+  }
+
+  .om_grid {
+    padding-top: 10%;
+  }
+
+  .om_img {
+    padding-top: 14%;
+  }
+}
