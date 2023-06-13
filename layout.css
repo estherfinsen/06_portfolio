@@ -231,12 +231,12 @@
     top: 22%;
   }
   .pro2_imgs {
-    padding-top: 12.5%;
+    padding-top: 13%;
   }
 
   /***PRO3****/
   .under3 {
-    padding-top: 13%;
+    padding-top: 46%;
   }
   .pro3_over {
     gap: 22%;
@@ -250,7 +250,7 @@
     padding-top: 25%;
   }
   .pro3_imgs {
-    padding-top: 6.5%;
+    padding-top: 2%;
   }
   /***PRO4****/
   .pro_grid4 {
@@ -293,7 +293,7 @@
     padding-top: 2%;
   }
   .pro4_pad img {
-    padding-top: 2%;
+    padding-top: 3%;
   }
   .state {
     background-color: white;
@@ -309,6 +309,10 @@
   .pro5_pad {
     padding-top: 20%;
   }
+
+  .pro5_imgs {
+    padding-top: 4%;
+  }
   /***PRO6****/
   .pro6_knap_grid {
     gap: 56%;
@@ -317,7 +321,7 @@
     width: 157%;
   }
   .pro6_imgs {
-    padding-top: 20.5%;
+    padding-top: 10%;
   }
 
   /*****OM MIG*****/
@@ -332,6 +336,6 @@
   }
 
   .om_img {
-    padding-top: 14%;
+    padding-top: 15.5%;
   }
 }
